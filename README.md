@@ -1,6 +1,3 @@
-# SuperStore-Sales-Dashboard
-Excel-based sales performance analysis and dashboard for SuperStore retail data
-
 # 🏪 SuperStore Sales Performance Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -57,4 +54,24 @@ This project analyzes SuperStore sales data to uncover key business insights and
 - Advanced Excel Formulas (SUMIFS, COUNTIFS, etc.)
 - Dashboard creation with multiple visualizations
 
-## 📁 Project Structure
+## 🚀 Getting Started
+
+### Prerequisites
+- Microsoft Excel 2016 or later
+- Basic understanding of Excel Pivot Tables
+
+### Installation & Usage
+1. **Download the repository**
+   ```bash
+   git clone https://github.com/Dianawats/SuperStore-Sales-Dashboard.git
+
+
+### 🙏 Acknowledgments
+- Dataset (Recommended): Superstore Sales Dataset (Kaggle)
+- Microsoft Excel documentation and community
+- Inspired by real-world business analytics projects
+
+```markdown
+Copyright (c) 2025 Diana Nakiwala
+
+Permission is hereby granted...
